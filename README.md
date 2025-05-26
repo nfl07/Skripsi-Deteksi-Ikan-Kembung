@@ -1,1 +1,1 @@
-# Skripsi-Deteksi-Ikan-Kembung
+# Skripsi-Deteksi-Ikan-Kembung Dengan Algoritma CNN
